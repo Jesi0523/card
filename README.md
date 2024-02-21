@@ -1,2 +1,2 @@
 # card
-[Card](https://menu-pied-six.vercel.app/)
+[Card](https://card-mauve-seven.vercel.app/)
